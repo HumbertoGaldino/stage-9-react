@@ -4,15 +4,15 @@ import { Container, Profile, Logout } from './styles'
 export function Header() {
   return (
     <Container>
-      <Profile>
+      <Profile to="/profile">
         <img
-          src="https://avatars.githubusercontent.com/u/62859615?v=4"
+          src="https://github.com/rodrigorgtic.png"
           alt="Foto do usuário"
         />
 
         <div>
           <span>Bem-vindo</span>
-          <strong>Humberto Galdino</strong>
+          <strong>Rodrigo Gonçalves</strong>
         </div>
       </Profile>
 
