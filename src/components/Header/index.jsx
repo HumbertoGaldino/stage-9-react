@@ -6,13 +6,13 @@ export function Header() {
     <Container>
       <Profile>
         <img
-          src="https://github.com/rodrigorgtic.png"
+          src="https://avatars.githubusercontent.com/u/62859615?v=4"
           alt="Foto do usuário"
         />
 
         <div>
           <span>Bem-vindo</span>
-          <strong>Rodrigo Gonçalves</strong>
+          <strong>Humberto Galdino</strong>
         </div>
       </Profile>
 
